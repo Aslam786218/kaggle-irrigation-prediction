@@ -82,7 +82,6 @@ kaggle-irrigation-prediction/
 │   ├── submission_v1.csv
 │   ├── submission_v2.csv
 │
-├── experiments.md
 ├── README.md
 ```
 
