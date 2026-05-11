@@ -63,8 +63,8 @@ It is part of the Kaggle Playground Series and is used to experiment with differ
 | v1      | RandomForest | Baseline model       | 0.91     | -        |
 | v2      | LightGBM     | Basic implementation | 0.96     | -        |
 | v3      | LightGBM     | Tuned parameters     | 0.968    | -        |
-| v4      | LightGBM     | Feature engineering  | (update) | (update) |
-| v5      | Ensemble     | LGBM + others        | (future) | (future) |
+| v4      | LightGBM     | Feature engineering  | 0.969    | -        |
+
 
 ---
 
